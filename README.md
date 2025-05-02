@@ -1,6 +1,7 @@
 # Nota
 This is a test repository
 using Git 
+Using VSC
 
 # React + TypeScript + Vite
 
