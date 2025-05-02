@@ -1,5 +1,6 @@
 # Nota
-Este es un respositorio de prueba
+This is a test repository
+using Git 
 
 # React + TypeScript + Vite
 
