@@ -60,3 +60,6 @@ export default tseslint.config({
   },
 })
 ```
+
+## Ediciones
+Agregada base de datos
